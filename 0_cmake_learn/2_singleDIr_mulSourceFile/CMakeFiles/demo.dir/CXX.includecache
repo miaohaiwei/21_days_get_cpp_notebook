@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/mhw/视频/C++/21_days_get_cpp/0_cmake_learn/2_singleDIr_mulSourceFile/MathFunctions.cpp
+
+/home/mhw/视频/C++/21_days_get_cpp/0_cmake_learn/2_singleDIr_mulSourceFile/MathFunctions.h
+
+/home/mhw/视频/C++/21_days_get_cpp/0_cmake_learn/2_singleDIr_mulSourceFile/main.cpp
+stdio.h
+-
+stdlib.h
+-
+MathFunctions.h
+/home/mhw/视频/C++/21_days_get_cpp/0_cmake_learn/2_singleDIr_mulSourceFile/MathFunctions.h
+
